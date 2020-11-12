@@ -6,7 +6,7 @@ navbar:
     - text: "Home"
       href: index.html
   right:
-    - icon: fa-github
+    - icon: fa-github fa-lg
       href: https://github.com/USCbiostats/PM566
     - text: "PM566 Home"
       href: https://elastic-khorana-70231e.netlify.app/
